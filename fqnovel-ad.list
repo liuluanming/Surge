@@ -1,11 +1,12 @@
 # > 番茄小说广告
-DOMAIN-KEYWORD,normal-lf.fqnovel.com,DIRECT
-DOMAIN-KEYWORD,applog-lf.fqnovel.com,DIRECT
-DOMAIN-KEYWORD,reading-sign.fqnovelpic.com,DIRECT
-DOMAIN-KEYWORD,normal-lf.fqnovel.com,DIRECT
-DOMAIN-KEYWORD,novel-sign.byteimg.com,DIRECT
-DOMAIN-KEYWORD,applog-lf.fqnovel.com,DIRECT
-DOMAIN-KEYWORD,reading-sign.fqnovelpic.com,DIRECT
+#DOMAIN-KEYWORD,normal-lf.fqnovel.com,DIRECT
+#DOMAIN-KEYWORD,applog-lf.fqnovel.com,DIRECT
+#DOMAIN-KEYWORD,reading-sign.fqnovelpic.com,DIRECT
+#DOMAIN-KEYWORD,normal-lf.fqnovel.com,DIRECT
+#DOMAIN-KEYWORD,novel-sign.byteimg.com,DIRECT
+#DOMAIN-KEYWORD,applog-lf.fqnovel.com,DIRECT
+#DOMAIN-KEYWORD,reading-sign.fqnovelpic.com,DIRECT
+
 DOMAIN-SUFFIX,lf3-static.bytednsdoc.com,REJECT
 DOMAIN-SUFFIX,yyyue.xyz,REJECT
 DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
