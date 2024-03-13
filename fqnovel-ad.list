@@ -40,13 +40,13 @@ DOMAIN-KEYWORD,bdurl.net,REJECT
 DOMAIN-SUFFIX,bytemaimg.com,REJECT
 DOMAIN-KEYWORD,zijieapi.com,REJECT
 DOMAIN-KEYWORD,aio.ecombdimg.com,REJECT
-DOMAIN-SUFFIX,douyinpic.com,REJECT
+#DOMAIN-SUFFIX,douyinpic.com,REJECT
 DOMAIN-SUFFIX,oceanengine.com,REJECT
 DOMAIN-SUFFIX,bytegoofy.com,REJECT
 DOMAIN-SUFFIX,byteorge.com,REJECT
 DOMAIN-SUFFIX,chengzijianzhan.com,REJECT
 DOMAIN-SUFFIX,bytescm.com,REJECT
-DOMAIN-SUFFIX,douyinstatic.com,REJECT
+#DOMAIN-SUFFIX,douyinstatic.com,REJECT
 DOMAIN-KEYWORD,app.yangkeduo.com,REJECT
 DOMAIN-SUFFIX,oort-shipper.kakamobi.cn,REJECT
 DOMAIN-KEYWORD,douyincdn.com,REJECT
