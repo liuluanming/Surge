@@ -1,7 +1,3 @@
-# > 强制订阅链接走代理
-DOMAIN-SUFFIX,www.xn--ehqx7tcnnope.com,🚀 Proxy
-DOMAIN-SUFFIX,api.wcc.best,🚀 Proxy
-
 # > 杂七杂八
 DOMAIN-SUFFIX,ysys369.xyz,REJECT
 DOMAIN-SUFFIX,4btcqjy.cn,REJECT
@@ -9,8 +5,5 @@ DOMAIN-SUFFIX,pki.goog,REJECT
 DOMAIN-SUFFIX,0613.3prndxd.cn,REJECT
 DOMAIN-SUFFIX,chux.laikanav-t012.xyz,REJECT
 DOMAIN-SUFFIX,www.17c721.com,REJECT
-DOMAIN,cccat.io,🚀 Proxy
-# > iPlay验证
-DOMAIN-SUFFIX,d.xfinfr.com,🚀 Proxy
 # > Safari 防跳转
 DOMAIN,app-site-association.cdn-apple.com,REJECT
